@@ -2,6 +2,8 @@
 
 My solution to the JS puzzle of dealing with multidimensional arrays and, if we assume it to be a farm field representation, calculate how many cows and herds are present. A cow is denoted to be the number 1 and 0 are empty fields; a herd is any cow connected adjacent to another cow horizontally & vertically. The farm field is randomly generated.
 
+Refresh the page to regenerate the farm and cows/herds.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
